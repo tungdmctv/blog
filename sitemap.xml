@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tung.dmc.tv/post/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tung.dmc.tv/tags/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tung.dmc.tv/tags/%E0%B8%97%E0%B8%A8%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%81/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tung.dmc.tv/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tung.dmc.tv/tags/%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%AA%E0%B8%96/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tung.dmc.tv/p/%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%AA%E0%B8%96%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tung.dmc.tv/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tung.dmc.tv/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tung.dmc.tv/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tung.dmc.tv/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tung.dmc.tv/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tung.dmc.tv/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -41,9 +53,6 @@
     <loc>https://tung.dmc.tv/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tung.dmc.tv/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tung.dmc.tv/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,15 +66,6 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tung.dmc.tv/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tung.dmc.tv/tags/%E0%B8%97%E0%B8%A8%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%81/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tung.dmc.tv/tags/%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%AA%E0%B8%96/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tung.dmc.tv/p/%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%AA%E0%B8%96%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tung.dmc.tv/p/placeholder-text/</loc>
