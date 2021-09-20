@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on พระมหาทศพร</title>
-    <link>https://tungdmctv.github.io/tags/css/</link>
+    <link>https://tungdmctv.github.io/blog/tags/css/</link>
     <description>Recent content in css on พระมหาทศพร</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tungdmctv.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tungdmctv.github.io/blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://tungdmctv.github.io/p/markdown-syntax-guide/</link>
+      <link>https://tungdmctv.github.io/blog/p/markdown-syntax-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://tungdmctv.github.io/p/markdown-syntax-guide/</guid>
+      <guid>https://tungdmctv.github.io/blog/p/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
